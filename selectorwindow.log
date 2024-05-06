@@ -1,0 +1,16 @@
+00:00:02.325090 VirtualBox GUI VM Selector Window 7.0.4 r154605 win.amd64 (Nov 16 2022 15:33:13) release log
+00:00:02.325096 Log opened 2024-05-06T08:37:55.119231600Z
+00:00:02.325098 Build Type: release
+00:00:02.325112 OS Product: Windows 11
+00:00:02.325115 OS Release: 10.0.22621
+00:00:02.325116 OS Service Pack: 
+00:00:02.365070 Firmware type: UEFI
+00:00:02.365652 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:02.365694 Host RAM: 3913MB (3.8GB) total, 1465MB available
+00:00:02.366271 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:02.366273 Process ID: 5300
+00:00:02.366274 Package type: WINDOWS_64BITS_GENERIC
+00:00:02.366503 Qt version: 5.15.2
+00:00:02.368877 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:02.544123 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.544322 GUI: UIMediumEnumerator: Medium-enumeration finished!

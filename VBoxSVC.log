@@ -1,0 +1,49 @@
+00:00:00.010822 main     VirtualBox COM Server 7.0.4 r154605 win.amd64 (Nov 16 2022 15:33:13) release log
+00:00:00.010829 main     Log opened 2024-05-06T08:37:54.353339100Z
+00:00:00.010831 main     Build Type: release
+00:00:00.010853 main     OS Product: Windows 11
+00:00:00.010856 main     OS Release: 10.0.22621
+00:00:00.010858 main     OS Service Pack: 
+00:00:00.042382 main     Firmware type: UEFI
+00:00:00.042894 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.042934 main     Host RAM: 3913MB (3.8GB) total, 1474MB available
+00:00:00.042941 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.042942 main     Process ID: 8312
+00:00:00.042943 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.285070          VirtualBox: object creation starts
+00:00:00.285351          Home directory: 'C:\Users\TEMP.DESKTOP-BC9P87I.008\.VirtualBox'
+00:00:00.285469          Installed Drivers:
+00:00:00.289925            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.4.4605)
+00:00:00.290712            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.4.4605)
+00:00:00.291093            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 7.0.4.4605)
+00:00:00.291820            C:\WINDOWS\System32\drivers\VBoxNetAdp6.sys (Version: 7.0.4.4605)
+00:00:00.297453          usbLibGetDevices: Starting USB device enumeration
+00:00:00.305740          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.552859          netIfIsWireless: CreateFile on '\\.\{FD4C37A4-A51E-4A6B-89C7-8BCD01207757}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.553418          netIfIsWireless: CreateFile on '\\.\{5024ED39-FE52-4A51-88C0-0F07352425C5}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.554671          netIfIsWireless: CreateFile on '\\.\{1428527B-B72A-4FA0-B51A-0B2D075420AC}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.555211          netIfIsWireless: CreateFile on '\\.\{624E3DE7-B6F2-4C78-856A-EE0D73EDAEC8}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.562178          HostDnsMonitor: initializing
+00:00:00.573153          HostDnsMonitor: updating information
+00:00:00.573177          HostDnsMonitor: old information
+00:00:00.573178            no server entries
+00:00:00.573179            no domain set
+00:00:00.573179            no search string entries
+00:00:00.573179          HostDnsMonitor: new information
+00:00:00.573180            server 1: 192.168.100.1
+00:00:00.573180            no domain set
+00:00:00.573181            no search string entries
+00:00:00.642002          VD: VDInit finished with VINF_SUCCESS
+00:00:00.643700          VirtualBox: object created
+00:00:00.857458          Saving settings file "C:\Users\TEMP.DESKTOP-BC9P87I.008\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.903907          Finished saving settings file "C:\Users\TEMP.DESKTOP-BC9P87I.008\.VirtualBox\VirtualBox.xml"
+00:00:00.904515          Saving settings file "C:\Users\TEMP.DESKTOP-BC9P87I.008\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.927423          Finished saving settings file "C:\Users\TEMP.DESKTOP-BC9P87I.008\.VirtualBox\VirtualBox.xml"
+00:00:00.928000          Saving settings file "C:\Users\TEMP.DESKTOP-BC9P87I.008\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.951725          Finished saving settings file "C:\Users\TEMP.DESKTOP-BC9P87I.008\.VirtualBox\VirtualBox.xml"
+00:00:02.874354          Saving settings file "C:\Users\TEMP.DESKTOP-BC9P87I.008\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.902094          Finished saving settings file "C:\Users\TEMP.DESKTOP-BC9P87I.008\.VirtualBox\VirtualBox.xml"
+00:00:09.259553          Saving settings file "C:\Users\TEMP.DESKTOP-BC9P87I.008\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:09.282370          Finished saving settings file "C:\Users\TEMP.DESKTOP-BC9P87I.008\.VirtualBox\VirtualBox.xml"
+00:00:09.910607          Saving settings file "C:\Users\TEMP.DESKTOP-BC9P87I.008\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:09.965180          Finished saving settings file "C:\Users\TEMP.DESKTOP-BC9P87I.008\.VirtualBox\VirtualBox.xml"
